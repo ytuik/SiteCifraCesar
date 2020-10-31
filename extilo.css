@@ -6,24 +6,24 @@ html{
 #corpo{
     width: 450px;
     height: fit-content;
-    color:#4A235A;
+    color: #4A235A;
 }
 
 input[type=text ]{
     width: 200px;
     font-size: 15px;
     padding:4px;
-    font-family: "Palatino Linotype ";
+    font-family: "Palatino Linotype";
 }
 
 input[type=number]{
     width: 165px;
     font-size: 15px;
     padding: 4px;
-    font-family: "Palatino Linotype ";
+    font-family: "Palatino Linotype";
 }
 output[type = text]{
-    color: #8B0000	;
+    color: #8B0000;
     font-size: 17px;
     padding: 4px;
     border: none;
@@ -32,14 +32,17 @@ output[type = text]{
 button{
     font-size: 12px;
     border: none;
-    cursor:pointer;
+    cursor: pointer;
 }
+
 .Enc{
     background-color: green;
 }
+
 .Dec{
     background-color: orangered;    
 }
+
 h1{
     text-align: center;
 }
